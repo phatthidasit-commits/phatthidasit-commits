@@ -47,10 +47,10 @@ LINE Chatbot ที่ออกแบบมาเพื่อเป็นพื�
 
 ## 🛠️ Technical Skills & Tools
 
-* **Programming:** Python, C (พื้นฐาน)
+* **Programming:** Python, C (พื้นฐาน), html, css, js (ชอบทำ UI มากเลยค่ะ)
 * **Web & API:** Flask, REST API, LINE Messaging API
 * **AI Integration:** Gemini API
-* **Tools & Infrastructure:** GitHub, VS Code, Render, Miro
+* **Tools & Infrastructure:** GitHub, VS Code, Render, Miro, Ren'Py(กำลังศึกษาเพื่อพัฒนาเกม)
 * **Currently Learning:** Data Structures, Algorithms, และกระบวนการคิดแก้ปัญหาอย่างเป็นระบบ
 
 ---
