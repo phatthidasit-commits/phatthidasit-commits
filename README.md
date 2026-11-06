@@ -35,11 +35,14 @@ LINE Chatbot ที่ออกแบบมาเพื่อเป็นพื�
 * **Theme:** Community Development, UX/UI Design, Problem Solving
 * *(กำลังรวบรวมรายละเอียดผลงานลง GitHub)*
 
-### 🌙 03 — Moon | Visual Novel Game
+### 🌙 03 — NOT OWRS | Visual Novel Game
+Status: In Development 🎮
 
-**Status:** In Development 🎮
+A psychological visual novel inspired by Buddhist philosophy. โครงงานเกมเชิงจิตวิทยาที่สำรวจความสัมพันธ์ ความยึดติด และการปล่อยวาง
 
-โครงงานเกมเล่าเรื่อง (Interactive Storytelling) ที่นำเสนอผลกระทบจากการกลั่นแกล้ง (Bullying) เพื่อส่งเสริมความเข้าใจและสร้างความตระหนักรู้ถึงความรู้สึกของผู้อื่น
+Theme: Game Development, Storytelling, Philosophy
+
+🔗 ดูรายละเอียดโครงงาน
 
 * **Theme:** Game Development, Storytelling, Social Awareness
 * *(กำลังรวบรวมรายละเอียดผลงานลง GitHub)*
