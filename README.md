@@ -4,6 +4,7 @@
 **💻 Aspiring Computer Engineer | Student Developer**
 
 สวัสดีค่ะ! ยินดีต้อนรับสู่พื้นที่รวบรวมโค้ดและโปรเจกต์ที่หนูทำด้วยความตั้งใจ 💛
+
 ค้นพบความสนุกในการเขียนโปรแกรมและกำลังมุ่งมั่นเตรียมตัวสอบเข้าศึกษาต่อในสาขาวิศวกรรมคอมพิวเตอร์ค่ะ
 
 > 🌱 **My Goal: Building technology that helps people and communities.**
