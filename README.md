@@ -42,8 +42,7 @@ A psychological visual novel inspired by Buddhist philosophy. โครงงา
 
 Theme: Game Development, Storytelling, Philosophy
 
-🔗 ดูรายละเอียดโครงงาน
-
+* 🔗 [ดูโค้ดและรายละเอียดโครงงาน]((https://github.com/phatthidasit-commits/-NOT-OWRS-Visual-Novel-))
 * **Theme:** Game Development, Storytelling, Social Awareness
 * *(กำลังรวบรวมรายละเอียดผลงานลง GitHub)*
 
