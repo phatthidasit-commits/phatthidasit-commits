@@ -47,7 +47,7 @@ LINE Chatbot ที่ออกแบบมาเพื่อเป็นพื�
 **Status:** UX/UI Prototype 🎨
 
 ต้นแบบระบบสั่งจองสินค้าล่วงหน้า (Pre-order) ที่ออกแบบมาเพื่อช่วยพัฒนาร้านกล้วยทอดของครอบครัว โดยมุ่งเน้นการแก้ปัญหาการรอคิวของลูกค้าและการจัดการออเดอร์ของร้านค้ารายย่อยในชุมชน
-
+* 🔗 [ดูโค้ดและรายละเอียดโครงงาน](https://github.com/phatthidasit-commits/Banana-Queue-Community-Project)
 * **Theme:** Community Development, UX/UI Design, Problem Solving
 * *(กำลังรวบรวมรายละเอียดผลงานลง GitHub)*
 
